@@ -50,8 +50,8 @@ const DESTINATIONS = [
     images: [
       'https://images.unsplash.com/photo-1518684079-3c830dcef090?w=600&q=80',
       'https://images.unsplash.com/photo-1546412414-8035e1776c9a?w=600&q=80',
-      'https://images.unsplash.com/photo-1586870977264-b9f50fff8ef1?w=600&q=80',
-      'https://images.unsplash.com/photo-1604964432806-254d07c11f32?w=600&q=80',
+      'https://www.shutterstock.com/image-photo/night-view-downtown-burj-khalifa-600nw-2699950883.jpg',
+      'https://www.shutterstock.com/image-photo/dubai-uae-october-22-2024-600nw-2562449761.jpg',
     ],
     history: 'Dubai surgiu como um pequeno porto pesqueiro no século XIX. A descoberta do petróleo em 1966 transformou radicalmente a cidade, mas foi a visão do xeique Mohammed bin Rashid Al Maktoum que a converteu em um centro global de negócios, turismo e inovação arquitetônica sem precedentes.',
     facts: { pop: '3.5 milhões', fundacao: '1833', area: '4.114 km²', idioma: 'Árabe/Inglês' },
@@ -64,8 +64,8 @@ const DESTINATIONS = [
     images: [
       'https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=600&q=80',
       'https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?w=600&q=80',
-      'https://images.unsplash.com/photo-1612833609548-e4e0df4e9d8c?w=600&q=80',
-      'https://images.unsplash.com/photo-1535748935941-b1188e3dcd77?w=600&q=80',
+      'https://cdn.create.vista.com/api/media/small/54559529/stock-photo-red-beach-on-santorini-island',
+      'https://cdn.create.vista.com/api/media/small/367717582/stock-photo-white-houses-tranquil-sea-sky-clouds-greece',
     ],
     history: 'Santorini é o que resta de uma das maiores erupções vulcânicas da história humana, ocorrida por volta de 1650 a.C. Esta catástrofe foi possivelmente a inspiração para o mito de Atlântida. Hoje, suas casas brancas com cúpulas azuis nas bordas da caldeira são umas das imagens mais icônicas do Mediterrâneo.',
     facts: { pop: '15.500', fundacao: '3000 a.C.', area: '76 km²', idioma: 'Grego' },
@@ -85,12 +85,12 @@ const TIMELINE = [
 
 const GALLERY_IMGS = [
   { src: 'https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=900&q=80', label: 'Noruega — Fiorde do Geiranger' },
-  { src: 'https://images.unsplash.com/photo-1533929736458-ca588d08c8be?w=800&q=80', label: 'Japão — Monte Fuji' },
-  { src: 'https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=700&q=80', label: 'Islândia — Aurora Boreal' },
+  { src: 'https://thumbs.dreamstime.com/b/cidade-de-annecy-fran%C3%A7a-96963879.jpg', label: 'França — Annecy' },
+  { src: 'https://apureguria.com/wp-content/uploads/2024/09/Aurora-Boreal-na-Islandia-5-dicas-para-voce-realizar-esse-sonho.jpg', label: 'Islândia — Aurora Boreal' },
   { src: 'https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=800&q=80', label: 'Marrocos — Saara' },
-  { src: 'https://images.unsplash.com/photo-1553913861-c0fddf2619ee?w=700&q=80', label: 'Maldivas — Atol' },
+  { src: 'https://static.vecteezy.com/ti/fotos-gratis/p1/5226509-incrivel-atol-e-ilha-em-maldivas-de-vista-aerea-tranquil-paisagem-tropical-e-paisagem-marinha-com-palmeiras-na-praia-branca-areia-natureza-paz-no-luxo-resort-ilha-verao-ferias-mood-foto.jpg', label: 'Maldivas — Atol' },
   { src: 'https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?w=900&q=80', label: 'Turquia — Capadócia' },
-  { src: 'https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?w=800&q=80', label: 'França — Annecy' },
+  { src: 'https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?w=800&q=80', label: 'Japão — Monte Fuji' },
   { src: 'https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=900&q=80', label: 'Bali — Templo Tanah Lot' },
   { src: 'https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800&q=80', label: 'França — Torre Eiffel' },
 ];
